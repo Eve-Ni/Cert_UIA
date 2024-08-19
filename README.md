@@ -30,3 +30,10 @@ python main.py
 ```
 
 ## Cite
+@inproceedings{
+  title={Exploring Robustness of GNN against Universal Injection Attack from a Worst-case Perspective},
+  author={Dandan Ni and Sheng Zhang and Cong Deng and Han Liu and Gang Chen and Minhao Cheng and Hongyang Chen.},
+  booktitle={Proceedings of the 33th ACM International Conference on Information and Knowledge Management},
+  series={CIKM'24},
+  year={2024}
+}
